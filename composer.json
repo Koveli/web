@@ -1,0 +1,19 @@
+{
+    "name": "jinas/hilafothi",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mohamed jinas",
+            "email": "j@live.mv"
+        }
+    ],
+    "require": {
+        "mikecao/flight": "^1.3"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    }
+}
