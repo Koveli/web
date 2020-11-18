@@ -1,6 +1,10 @@
 ## TODO
 
-- [ ] Setup project structure
+- [x] Setup project structure
+- [x] File system
+- [x] Show a single publication
+- [x] Create a publication
+- [ ] List all the publication
 
 
 
